@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Tasfia Nuzhat</h1>
-<h3 align="center">Graduate Research Assistant (Universiti Tenaga Nasional (UNITEN)</h3>
+<h3 align="center">Graduate Research Assistant (Universiti Tenaga Nasional, Malaysia)</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasfia266&label=Profile%20views&color=0e75b6&style=flat" alt="tasfia266" /> </p>
