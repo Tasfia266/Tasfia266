@@ -5,17 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasfia266&label=Profile%20views&color=0e75b6&style=flat" alt="tasfia266" /> </p>
 
-- 🔭 I’m currently working on **AI for Model Informed Drug Development**
+- 🔭 I’m currently working on **Large Language Models (LLMs), Agentic AI**
 
-- 🌱 I’m currently learning **FastAPI**
-
-- 👯 I’m looking to collaborate on **Medical AI & Computer Vision Projects**
-
-- 💬 Ask me about **Machine Learning & Deep Learning**
+- 👯 I’m looking to collaborate on **Vision and NLP Research**
 
 - 📫 How to reach me **Ornitasfia3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LRz1A443Qk-3IqkMLC3nxHjjmOHpr8LZ/view?usp=sharing](https://drive.google.com/file/d/1LRz1A443Qk-3IqkMLC3nxHjjmOHpr8LZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17xCHWXtXLT2rDNO3qz6rnT8DUsKGsjqF/view?usp=sharing](https://drive.google.com/file/d/17xCHWXtXLT2rDNO3qz6rnT8DUsKGsjqF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
