@@ -1,8 +1,12 @@
+<div align="center">
+
 # Tasfia Nuzhat
 
 Generative Models & Diffusion · Large Language Models · Trustworthy & Biomedical AI
 
 [Email](mailto:Ornitasfia3@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=ToPoa3EAAAAJ&hl=en) · [Website](https://tasfia266.github.io/)
+
+</div>
 
 ### About
 
@@ -22,9 +26,26 @@ Ph.D. student in Industrial Engineering & Management Systems at the University o
 
 **Generative & Deep Learning:** diffusion models (discrete / graph) & multi-objective optimization, generative modeling for molecules, LLMs, PEFT / LoRA, RAG, GANs, graph neural networks, computer vision
 **Trustworthy & Applied ML:** uncertainty quantification, explainable AI, LLM evaluation & safety / alignment benchmarking, predictive modeling for clinical and materials-science data
-**Programming & Tools:** Python, C/C++, JavaScript, SQL, PyTorch, TensorFlow, Hugging Face Transformers, Git
+
+**Programming & Tools:**
+
+![Python](https://img.shields.io/badge/Python-a1487e?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-a1487e?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-a1487e?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-a1487e?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-a1487e?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-a1487e?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-a1487e?style=flat-square&logo=huggingface&logoColor=white)
+![Git](https://img.shields.io/badge/Git-a1487e?style=flat-square&logo=git&logoColor=white)
 
 ### Research Impact
 
-- 50+ citations, h-index 3 ([Google Scholar](https://scholar.google.com/citations?user=ToPoa3EAAAAJ&hl=en))
-- 7 published/accepted papers, including venues such as *Scientific Reports* (Nature Portfolio), *Journal of Water Process Engineering* (Elsevier, Q1), the ICML GenBio Workshop, and IEEE conferences
+<div align="center">
+
+![Citations](https://img.shields.io/badge/Citations-50%2B-a1487e?style=for-the-badge)
+![h-index](https://img.shields.io/badge/h--index-3-a1487e?style=for-the-badge)
+![Publications](https://img.shields.io/badge/Publications-7-a1487e?style=for-the-badge)
+
+</div>
+
+Published or accepted in venues including *Scientific Reports* (Nature Portfolio), *Journal of Water Process Engineering* (Elsevier, Q1), the ICML GenBio Workshop, and IEEE conferences. Full record on [Google Scholar](https://scholar.google.com/citations?user=ToPoa3EAAAAJ&hl=en).
