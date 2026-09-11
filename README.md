@@ -1,22 +1,30 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Tasfia Nuzhat</h1>
-<h3 align="center">Graduate Research Assistant (Universiti Tenaga Nasional, Malaysia)</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+# Tasfia Nuzhat
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasfia266&label=Profile%20views&color=0e75b6&style=flat" alt="tasfia266" /> </p>
+Generative Models & Diffusion · Large Language Models · Trustworthy & Biomedical AI
 
-- 🔭 I’m currently working on **Large Language Models (LLMs), Agentic AI**
+[Email](mailto:Ornitasfia3@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=ToPoa3EAAAAJ&hl=en) · [Website](https://tasfia266.github.io/)
 
-- 👯 I’m looking to collaborate on **Vision and NLP Research**
+### About
 
-- 📫 How to reach me **Ornitasfia3@gmail.com**
+Ph.D. student in Industrial Engineering & Management Systems at the University of Central Florida, working in the Complex Adaptive Systems Lab under Dr. Niloofar Yousefi. Before my Ph.D., I spent two years as an AI engineer building LLM-based retrieval, information-extraction, and scientific knowledge systems for pharmaceutical research.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17xCHWXtXLT2rDNO3qz6rnT8DUsKGsjqF/view?usp=sharing](https://drive.google.com/file/d/17xCHWXtXLT2rDNO3qz6rnT8DUsKGsjqF/view?usp=sharing)
+### Education
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tasfia nuzhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasfia nuzhat" height="30" width="40" /></a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasfia266&show_icons=true&locale=en&layout=compact" alt="tasfia266" /></p>
+- **Ph.D., Industrial Engineering & Management Systems** — University of Central Florida, Jan 2026 – Present
+- **B.Sc., Computer Science & Engineering** — Chittagong Independent University, Sep 2017 – Sep 2021
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasfia266&show_icons=true&locale=en" alt="tasfia266" /></p>
+### Current Research
+
+- Multi-objective optimization methods for generative diffusion models, with a broader interest in trustworthy and controllable generative AI
+- Expanding into AI safety, reasoning, and alignment for tool-using LLM agents — collaborating on **NEXUS**, a runtime safety framework that monitors agent behavior and intervenes before unsafe actions execute
+
+### Skill Sets
+
+**Generative & Deep Learning:** diffusion models (discrete / graph) & multi-objective optimization, generative modeling for molecules, LLMs, PEFT / LoRA, RAG, GANs, graph neural networks, computer vision
+**Trustworthy & Applied ML:** uncertainty quantification, explainable AI, LLM evaluation & safety / alignment benchmarking, predictive modeling for clinical and materials-science data
+**Programming & Tools:** Python, C/C++, JavaScript, SQL, PyTorch, TensorFlow, Hugging Face Transformers, Git
+
+### Research Impact
+
+- 50+ citations, h-index 3 ([Google Scholar](https://scholar.google.com/citations?user=ToPoa3EAAAAJ&hl=en))
+- 7 published/accepted papers, including venues such as *Scientific Reports* (Nature Portfolio), *Journal of Water Process Engineering* (Elsevier, Q1), the ICML GenBio Workshop, and IEEE conferences
