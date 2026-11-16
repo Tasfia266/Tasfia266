@@ -20,7 +20,7 @@ Ph.D. student in Industrial Engineering & Management Systems at the University o
 ### 🔬 Current Research
 
 - Multi-objective optimization methods for generative diffusion models, with a broader interest in trustworthy and controllable generative AI
-- Expanding into AI safety, reasoning, and alignment for tool-using LLM agents — collaborating on **NEXUS**, a runtime safety framework that monitors agent behavior and intervenes before unsafe actions execute
+- Expanding into AI safety, reasoning, and alignment for tool-using LLM agents.
 
 ### 🛠️ Skill Sets
 
